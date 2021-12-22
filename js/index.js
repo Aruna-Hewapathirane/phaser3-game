@@ -4,7 +4,7 @@ const config = {
     parent: 'phaser-example',
     width: 800,
     height: 600,
-    scene:['Boot']
+    scene:[Boot]
 };
 
 const game = new Phaser.Game(config);
