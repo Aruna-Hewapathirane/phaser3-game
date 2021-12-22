@@ -1,3 +1,4 @@
+window.onload = function()  {
 const config = {
     type: Phaser.AUTO,
     parent: 'phaser-example',
@@ -7,3 +8,4 @@ const config = {
 };
 
 const game = new Phaser.Game(config);
+}
